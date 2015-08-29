@@ -8,3 +8,8 @@ d
 e
 
 nternational's 2014 Rising Star Award for Best Retail Concept and was named to Time Out NY's list of 15 NY Top Shops. STORY's model of "retail media" 
+
+If you refresh the page, the Restore button will disappear. If the branch never had any pull requests associated with it, you will need to push the branch up again from the command line. If the branch had a pull request, you can navigate to the pull request and click Restore from there.
+
+We'll branch off of your current context. For example, if you're on the bugfix branch, we'll create a new branch from bugfix instead of master. Looking at a commit or a tag instead? We'll branch your code from that specific revision.
+

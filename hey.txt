@@ -7,5 +7,10 @@ Outside of STORY, Rachel is an active member of the startup community, currently
 Bow & Drape, MikMak and SmartyPants 
 
 
+You can also delete branches from within pull requests. For more information see Deleting unused branches
+
 launched STORY, a 2000 sq. ft retail concept in Chelsea
 ; STORY is a space that has the point of view of a magazine
+
+ Delete the branch from the Pull Request or, as of today, delete it from your Branches page
+And if you discover you didn't want to delete that branch quite yet, yesterday we added the 
