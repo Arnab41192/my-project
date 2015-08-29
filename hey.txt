@@ -1,6 +1,7 @@
 One of the most visible features of TortoiseGit is the icon overlays which appear on
 iles in your working tree. These show you at a glance which of your files have been modified. Refer to the
 
+If you have old, unused branches, you may wish to clean them up by deleting them. Note that you can only delete branches if you have push access to the repository that contains them.
 
 Outside of STORY, Rachel is an active member of the startup community, currently an advisor to Quirky, Birchbox,]
 Bow & Drape, MikMak and SmartyPants 
