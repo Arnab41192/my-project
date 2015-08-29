@@ -1,3 +1,5 @@
 One of the most visible features of TortoiseGit is the icon overlays which appear on
 iles in your working tree. These show you at a glance which of your files have been modified. Refer to the
- section called “Icon Overlays” to find out what the different overlays represent. 
+
+ ghjghjhjh
+ hjkhjkj
