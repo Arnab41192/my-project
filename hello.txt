@@ -3,5 +3,4 @@ unchecked: No tags are downloaded (--no-tags is passed to git), and third state:
 Tags has three states (prior to git 1.9): Only all tags are downloaded but no branches are downloaded (--tags is passed to git), unchecked: No tags are
  downloaded (--no-tags is passed to git), and third state: use default behavior (based on remote name.tagopt setting).
  
- fhghfghfgh
- hfhgfhfg
+Set in a 2000 square foot store located in Manhattan’s 10th Ave. retail corridor, STORY is 
