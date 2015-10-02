@@ -3,4 +3,4 @@ unchecked: No tags are downloaded (--no-tags is passed to git), and third state:
 Tags has three states (prior to git 1.9): Only all tags are downloaded but no branches are downloaded (--tags is passed to git), unchecked: No tags are
  downloaded (--no-tags is passed to git), and third state: use default behavior (based on remote name.tagopt setting).
  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasdddddddddddddddddddddd
-Kraft, TOMS shoes and Lincoln, the idea was to create a retail concept that would serve as a matchmaker between brands fffffffffffffffrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzept that would serve as a matchmaker between brands fffffffffffffffrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
